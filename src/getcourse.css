@@ -1,0 +1,162 @@
+.get-course-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .get-course-image {
+    left: 0px;
+    width: 926px;
+    bottom: 1px;
+    height: 996px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .get-course-text {
+    top: 39px;
+    left: 59px;
+    color: #000000;
+    position: absolute;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .get-course-container1 {
+    top: 95px;
+    right: 143px;
+    width: 740px;
+    height: 842px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    border-color: var(--dl-color-gray-black);
+    border-width: 1px;
+    border-radius: var(--dl-radius-radius-radius8);
+    justify-content: center;
+    border-radius: 20px;
+    border: 1px solid black;
+  }
+  
+  .get-course-text1 {
+    top: 56px;
+    left: 98px;
+    position: absolute;
+    font-size: 50px;
+    font-style: bold;
+    font-weight: 600;
+  }
+  .get-course-text2 {
+    top: 56px;
+    left: 180px;
+    position: absolute;
+    font-size: 50px;
+    font-style: bolder;
+    font-weight: 600;
+  }
+  .get-course-textinput {
+    top: 166px;
+    left: 96px;
+    width: 499px;
+    height: 56px;
+    position: absolute;
+    font-size: 25px;
+    border-width: 1px;
+    padding-left: 15px;
+  }
+  .get-course-textinput1 {
+    top: 243px;
+    left: 95px;
+    width: 502px;
+    height: 56px;
+    position: absolute;
+    font-size: 25px;
+    border-width: 1px;
+    padding-left: 15px;
+  }
+  .get-course-textinput2 {
+    top: 324px;
+    left: 97px;
+    width: 499px;
+    height: 56px;
+    position: absolute;
+    font-size: 25px;
+    border-width: 1px;
+    padding-left: 15px;
+  }
+  .get-course-textinput3 {
+    top: 404px;
+    left: 97px;
+    width: 499px;
+    height: 56px;
+    position: absolute;
+    font-size: 25px;
+    border-width: 1px;
+    padding-left: 15px;
+  }
+  .get-course-textinput4 {
+    top: 486px;
+    left: 98px;
+    width: 499px;
+    height: 56px;
+    position: absolute;
+    font-size: 25px;
+    border-width: 1px;
+
+    padding-left: 15px;
+  }
+  .get-course-textinput5 {
+    top: 564px;
+    left: 99px;
+    width: 499px;
+    height: 56px;
+    position: absolute;
+    font-size: 25px;
+    border-width: 1px;
+    padding-left: 15px;
+  }
+  .get-course-textinput6 {
+    top: 642px;
+    left: 100px;
+    width: 499px;
+    height: 56px;
+    position: absolute;
+    font-size: 25px;
+    border-width: 1px;
+    padding-left: 15px;
+  }
+  .get-course-button {
+    left: 423px;
+    color: #ffffff;
+    width: 176px;
+    bottom: 32px;
+    height: 71px;
+    position: absolute;
+    font-size: 20px;
+    padding-top: 0px;
+    border-width: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    background-color: #24c149;
+    border-radius: 20px;
+  }
+  .get-course-button1 {
+    left: 225px;
+    color: #ffffff;
+    width: 176px;
+    bottom: 32px;
+    height: 71px;
+    position: absolute;
+    font-size: 20px;
+    padding-top: 0px;
+    border-width: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    background-color: #e70000;
+    border-radius: 20px;
+  }
+  
